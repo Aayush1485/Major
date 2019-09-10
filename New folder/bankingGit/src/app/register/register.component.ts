@@ -72,6 +72,12 @@ export class RegisterComponent implements OnInit {
     }
 
 
+
+
+
+
+    
+
     get  phoneNumber() {
       return this.registerForm.get('phoneNumber');
    }  
